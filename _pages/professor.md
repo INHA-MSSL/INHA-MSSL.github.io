@@ -2,7 +2,7 @@
 layout: about
 title: Professor
 permalink: /professor/
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #
 
 profile:
   align: right

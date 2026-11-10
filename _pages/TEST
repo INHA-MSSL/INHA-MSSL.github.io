@@ -1,0 +1,35 @@
+---
+layout: page
+permalink: /contact/
+title: Contact
+nav: true
+nav_order: 12
+---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 40px 20px; width: 100%;">
+
+  <!-- 멤버 1 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="photo1.jpg" style="width: 150px; height: auto; object-fit: cover;">
+    <div>
+      <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">Joo-Mi Cho (조주미)</h3>
+      <p style="margin: 0 0 15px 0; color: #666;">MS/PhD Course (Mar. 2021 ~)</p>
+      <p style="margin: 0 0 10px 0;"><strong>Email</strong><br>joomicho@sogang.ac.kr</p>
+      <p style="margin: 0;"><strong>Education</strong><br>B.S. in EE, Sookmyung Women's Univ. (2021)</p>
+    </div>
+  </div>
+
+  <!-- 멤버 2 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="photo2.jpg" style="width: 150px; height: auto; object-fit: cover;">
+    <div>
+      <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">Hyeon-Ji Choi (최현지)</h3>
+      <p style="margin: 0 0 15px 0; color: #666;">PhD Course (Sep. 2026 ~)</p>
+      <p style="margin: 0 0 10px 0;"><strong>Email</strong><br>choihj0202@snu.ac.kr</p>
+      <p style="margin: 0;"><strong>Education</strong><br>M.S. in EE, Sogang University (2026)</p>
+    </div>
+  </div>
+
+  <!-- 멤버 3, 4 ... 아래에 동일한 양식으로 계속 추가하면 자동으로 2열 정렬됩니다 -->
+
+</div>

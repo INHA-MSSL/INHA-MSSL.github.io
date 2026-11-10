@@ -3,7 +3,7 @@ layout: page
 permalink: /test/
 title: TEST
 nav: true
-nav_order: 12
+nav_order: 13
 ---
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 40px 20px; width: 100%;">

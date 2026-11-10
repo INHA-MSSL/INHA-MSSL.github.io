@@ -5,8 +5,8 @@ nav: true
 nav_order: 10
 dropdown: true
 children:
-  - title: Chip Photos
-    permalink: /chip_photos/
+  - title: Chip
+    permalink: /chip/
   - title: divider
   - title: Lab Activities
     permalink: /lab_activities/

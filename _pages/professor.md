@@ -28,7 +28,11 @@ latest_posts:
 Inho Park, Ph.D.
 
 Assistant Professor
+
 Department of Electronic Engineering
+
 Inha University
+
 Email: ihpark@inha.ac.kr
+
 Tel: 032-860-7419
